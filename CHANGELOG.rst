@@ -2,7 +2,7 @@
 Changelog for package ir_trans_drivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.3 (2015-09-08)
+0.0.4 (2015-09-08)
 ------------------
 * updated warning in changelog
 * Contributors: Raul Perula-Martinez
