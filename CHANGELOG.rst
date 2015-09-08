@@ -7,6 +7,11 @@ Changelog for package ir_trans_drivers
 * updated warning in changelog
 * Contributors: Raul Perula-Martinez
 
+0.0.3 (2015-09-08)
+------------------
+* updated warning in changelog
+* Contributors: Raul Perula-Martinez
+
 0.0.2 (2015-09-08)
 ------------------
 * updated name
