@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd `rospack find ir_trans_drivers`/irserver/
+cd `rospack find ir_trans_drivers`/irtrans/irserver/
 
 MACHINE_TYPE=`uname -m`
 if [ ${MACHINE_TYPE} == "x86_64" ]; then
