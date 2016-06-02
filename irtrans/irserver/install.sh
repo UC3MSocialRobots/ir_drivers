@@ -18,6 +18,12 @@ cp ip_assign64 $INSTALLDIR
 chmod +x $INSTALLDIR/ip_assign
 chmod +x $INSTALLDIR/ip_assign64
 
+# giving superpowers to irserver
+sudo chown root:root $INSTALLDIR/irserver
+sudo chown root:root $INSTALLDIR/irserver64
+sudo chmod u+s $INSTALLDIR/irserver
+sudo chmod u+s $INSTALLDIR/irserver64
+
 cp remotes/* $INSTALLDIR/remotes
 
 echo "IRTrans Software installed in $INSTALLDIR"
